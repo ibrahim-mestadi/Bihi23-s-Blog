@@ -1,2 +1,2 @@
 # Bihi23-s-Blog
-An interactive Personal blog using React 
+An interactive Personal blog using React (in progress ...)

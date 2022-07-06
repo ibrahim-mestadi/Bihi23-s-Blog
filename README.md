@@ -2,4 +2,4 @@
 An interactive Personal blog using React : 
 [x] listing 
 [x] adding
-[ ] delete 
+[x] delete 

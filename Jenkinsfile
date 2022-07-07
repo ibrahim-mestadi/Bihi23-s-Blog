@@ -1,16 +1,9 @@
 pipeline {
-    agent any
-
+    agent any 
     stages {
-        stage('Hello') {
+        stage('Build') { 
             steps {
-                echo 'Hello World'
-            }
-        }
-        
-        stage('stage2') {
-            steps {
-                sh 'mkdir new_files && ls -all'
+                sh 'npm install' 
             }
         }
     }
